@@ -6,7 +6,7 @@ let car = {
 
 console.log(typeof car);
 
-car.type = "Hyundai";
+car.type = "Toyota";
 console.log(car);
 
 car.wheels = 4;
